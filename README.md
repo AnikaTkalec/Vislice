@@ -3,6 +3,7 @@
 ## Avtorji
 
 Anika Tkalec
+Sonja Dolenc
 
 ## Opis
 
